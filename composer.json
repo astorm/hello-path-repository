@@ -1,5 +1,6 @@
 {
     "name": "astorm/hello-path-repository",
+    "version": "1.0",
     "type": "library",
     "license": "MIT",
     "authors": [

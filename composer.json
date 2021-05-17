@@ -1,0 +1,12 @@
+{
+    "name": "astorm/hello-path-repository",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alan Storm",
+            "email": "astorm@alanstorm.com"
+        }
+    ],
+    "require": {}
+}
